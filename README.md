@@ -1,4 +1,4 @@
-# Real Estate Market Intelligence — República Dominicana 🇩🇴
+# Real Estate Market Intelligence - República Dominicana 🇩🇴
 
 ## 📌 Descripción
 
