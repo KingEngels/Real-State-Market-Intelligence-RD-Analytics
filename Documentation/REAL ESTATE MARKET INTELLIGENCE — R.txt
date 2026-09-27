@@ -1,0 +1,74 @@
+REAL ESTATE MARKET INTELLIGENCE — ROADMAP
+
+
+
+\[*] 1. BUSINESS UNDERSTANDING
+
+&#x20;   → Definir problema, objetivo y preguntas de negocio.
+
+
+
+\[*] 2. DATA DISCOVERY / COLLECTION
+
+&#x20;   → Encontrar, descargar y seleccionar las fuentes de datos.
+
+
+
+\[*] 3. DATA UNDERSTANDING
+
+&#x20;   → Conocer estructura, variables, tipos, volumen y calidad de los datos.
+
+
+
+\[] 4. DATA CLEANING
+
+&#x20;   → Corregir NULLs, duplicados, errores, formatos, inconsistencias y outliers.
+
+
+
+\[] 5. DATA TRANSFORMATION
+
+&#x20;   → Crear variables útiles, transformar datos y preparar las tablas para análisis.
+
+
+
+\[ ] 6. SQL ANALYSIS
+
+&#x20;   → Consultar, agrupar, comparar y detectar patrones usando SQL avanzado.
+
+
+
+\[ ] 7. PYTHON / EDA
+
+&#x20;   → Explorar datos, analizar distribuciones, relaciones, tendencias y anomalías.
+
+
+
+\[ ] 8. DATA MODELING
+
+&#x20;   → Diseñar relaciones entre tablas y preparar el modelo analítico.
+
+
+
+\[ ] 9. POWER BI
+
+&#x20;   → Crear KPIs, medidas, visualizaciones, filtros y dashboard.
+
+
+
+\[ ] 10. INSIGHTS
+
+&#x20;    → Convertir resultados en hallazgos respaldados por datos.
+
+
+
+\[ ] 11. BUSINESS RECOMMENDATIONS
+
+&#x20;    → Proponer acciones basadas en los hallazgos.
+
+
+
+\[ ] 12. FINAL REVIEW
+
+&#x20;    → Validar datos, métricas, visualizaciones, conclusiones y calidad profesional.
+
